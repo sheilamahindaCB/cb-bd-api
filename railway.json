@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "startCommand": "gunicorn --bind 0.0.0.0:${PORT:-8000} api:app",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
