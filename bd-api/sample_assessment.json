@@ -1,0 +1,73 @@
+{
+  "short_name": "PakistanDISCOIV",
+  "bid_identification": {
+    "opportunity_name": "Financial Advisor for Private Sector Participation in LESCO and MEPCO — Pakistan DISCO-IV",
+    "client": "Privatisation Commission, Government of Pakistan",
+    "funder": "Government of Pakistan / World Bank",
+    "funder_type": "MDB",
+    "country": "Pakistan / South Asia",
+    "sector": "Power & Infrastructure / Utility Privatisation Advisory",
+    "procurement_method": "QCBS",
+    "reference_no": "PC/BD/DISCO-IV/2026/001",
+    "submission_deadline": "2026-12-15",
+    "estimated_contract_value": 3500000,
+    "cb_share_pct": 0.35,
+    "funder_project_id": "P-PK-2026-001"
+  },
+  "strategic_fit": [
+    {"criterion": "Funder Profile & Weighting", "score": 4, "weight": 0.15, "justification": "World Bank-backed GoP programme; payment risk mitigated by DFI oversight."},
+    {"criterion": "Geographic / Country Fit", "score": 2, "weight": 0.08, "justification": "CB has active UNICEF Pakistan REC mandate but no prior NEPRA or DISCO experience."},
+    {"criterion": "Sector Alignment with CB Core Practice", "score": 3, "weight": 0.10, "justification": "CB P&I core; utility privatisation is adjacent — not core PPP TA."},
+    {"criterion": "Technical Scope Match vs CB In-house Quals", "score": 2, "weight": 0.12, "justification": "CB strong on financial modelling; major gap on utility divestiture and NEPRA regulatory expertise."},
+    {"criterion": "Alignment with Past Work / Quals", "score": 3, "weight": 0.12, "justification": "Mpatamanga and CIV Solar analogous on financial close; no DISCO privatisation precedent."},
+    {"criterion": "Deadline Feasibility & Internal Capacity", "score": 3, "weight": 0.08, "justification": "65 days to deadline; feasible if consortium confirmed within 10 days."},
+    {"criterion": "Revenue & Profitability Potential", "score": 4, "weight": 0.10, "justification": "Total ~USD 3.5M; CB share ~USD 1.2M at 30% margin plus success fee upside."},
+    {"criterion": "Strategic Value", "score": 4, "weight": 0.10, "justification": "First CB mandate in Pakistan power sector; opens South Asia pipeline."},
+    {"criterion": "Win Probability", "score": 2, "weight": 0.10, "justification": "Competitive field: Big 4 + South Asia utility specialists likely bidding."},
+    {"criterion": "Risk Profile", "score": 2, "weight": 0.05, "justification": "Pakistan FX restrictions and political risk; prior DISCO privatisation programme stalled in 2015."}
+  ],
+  "key_expert_coverage": [
+    {"role": "Consortium Lead", "cb_score": 3, "gap": "None", "filled_by": "CrossBoundary", "comment": "CB primes Mpatamanga and CIV Solar — confident lead."},
+    {"role": "M&A / Utility Privatisation Specialist", "cb_score": 0, "gap": "Major", "filled_by": "Eversheds Sutherland / BDO", "comment": "Critical gap — must be filled by Tier-1 M&A advisor with league table ranking."},
+    {"role": "Pakistan DISCO Regulatory Expert (NEPRA)", "cb_score": 0, "gap": "Major", "filled_by": "Norton Rose / Axis Law", "comment": "NEPRA Act 2018, MYT regime, GoP privatisation programme — non-negotiable."},
+    {"role": "Senior Financial Advisor (Project Finance)", "cb_score": 3, "gap": "None", "filled_by": "CrossBoundary", "comment": "CB P&I team fully equipped."},
+    {"role": "Pakistan In-country Partner", "cb_score": 1, "gap": "Partial", "filled_by": "GGC / local firm TBD", "comment": "CB has UNICEF REC presence; needs DISCO investor network."},
+    {"role": "Transaction Legal Counsel", "cb_score": 0, "gap": "Major", "filled_by": "Eversheds / Norton Rose", "comment": "Privatisation Act compliance and GoP transaction documentation."},
+    {"role": "Financial Modelling Lead", "cb_score": 3, "gap": "None", "filled_by": "CrossBoundary", "comment": "CB distribution financial model depth from Nigeria NPSP."},
+    {"role": "Investor Relations / Market Sounding", "cb_score": 2, "gap": "Partial", "filled_by": "CrossBoundary + M&A lead", "comment": "CB has DFI engagement; M&A lead covers private investor base."},
+    {"role": "E&S Specialist", "cb_score": 1, "gap": "Partial", "filled_by": "Multiconsult / Artelia", "comment": "Required for distribution asset assessment phase."},
+    {"role": "Capacity Building Lead", "cb_score": 3, "gap": "None", "filled_by": "CrossBoundary", "comment": "CB USAID WAEP track record across 5 countries."}
+  ],
+  "partner_shortlist": [
+    {"partner_name": "Eversheds Sutherland", "role": "M&A Lead / Consortium Lead", "past_jv": "No — new partner", "sector_score": 5, "region_score": 3, "local_presence_score": 2, "capacity_score": 5, "contact": "TBD via BD outreach", "rationale": "Tier-1 global M&A legal; league table ranking; SSA infrastructure advisory depth."},
+    {"partner_name": "BDO Advisory", "role": "M&A / Transaction Advisory Lead", "past_jv": "No — new partner", "sector_score": 4, "region_score": 3, "local_presence_score": 2, "capacity_score": 4, "contact": "TBD", "rationale": "Mid-market M&A advisory with utility privatisation experience; ranked in league tables."},
+    {"partner_name": "Norton Rose Fulbright", "role": "Pakistan Legal / NEPRA Regulatory", "past_jv": "Yes — Botswana Solar Auction 2025", "sector_score": 4, "region_score": 3, "local_presence_score": 3, "capacity_score": 5, "contact": "Yusuf Hassan", "rationale": "Pakistan office with NEPRA and privatisation act expertise; prior CB collaboration."},
+    {"partner_name": "Axis Law Chambers", "role": "Pakistan Local Legal Counsel", "past_jv": "No — new partner", "sector_score": 4, "region_score": 5, "local_presence_score": 5, "capacity_score": 3, "contact": "TBD", "rationale": "Leading Pakistan energy sector law firm; NEPRA regulatory filings and GoP relations."},
+    {"partner_name": "GGC (Global Green Growth)", "role": "Pakistan In-country Partner", "past_jv": "Yes — Pakistan REC Programme", "sector_score": 3, "region_score": 5, "local_presence_score": 5, "capacity_score": 3, "contact": "TBD", "rationale": "Active CB collaboration on UNICEF Pakistan REC; in-country presence and GoP network."}
+  ],
+  "recommended_consortium": [
+    {"role": "Prime / Lead Transaction Advisor", "firm": "CrossBoundary LLC", "scope": "Overall TA lead; financial modelling; DFI engagement; market sounding; capacity building", "rationale": "Mpatamanga and CIV Solar FC precedent; UNICEF Pakistan in-country presence."},
+    {"role": "M&A / Consortium Lead (Privatisation)", "firm": "Eversheds Sutherland OR BDO Advisory", "scope": "Privatisation transaction lead; league table credential; investor outreach; GoP interface", "rationale": "Critical to meet RFP M&A ranking requirement; must be Tier-1 firm."},
+    {"role": "Pakistan Legal / NEPRA Regulatory", "firm": "Norton Rose Fulbright + Axis Law", "scope": "NEPRA Act compliance; MYT regime; GoP privatisation documentation; local regulatory filings", "rationale": "Non-negotiable regulatory gap; Norton Rose + local counsel covers both international and domestic requirements."},
+    {"role": "Pakistan In-country Partner", "firm": "GGC", "scope": "Local liaison; DISCO investor network; in-country workshops and stakeholder management", "rationale": "Active CB partnership; Pakistan government relationships."}
+  ],
+  "decision_log": {
+    "score": 3.32,
+    "decision": "CONDITIONAL GO",
+    "confirmed": false,
+    "confirmed_at": null,
+    "decision_maker": null
+  },
+  "top_gaps": [
+    {"gap": "Global M&A League Table Ranking", "mitigation": "Partner with Eversheds Sutherland or BDO as consortium lead; they supply the ranking credential."},
+    {"gap": "Pakistan DISCO Regulatory Expertise (NEPRA)", "mitigation": "Subcontract Norton Rose Fulbright + Axis Law Chambers for Pakistan-specific regulatory and legal coverage."}
+  ],
+  "next_steps": [
+    "Confirm Eversheds Sutherland or BDO as consortium M&A lead within 5 days",
+    "Send outreach to Norton Rose Fulbright and Axis Law for Pakistan legal coverage",
+    "Confirm GGC availability for in-country partner role",
+    "Schedule pre-bid clarification call with Privatisation Commission",
+    "Assign Sebastian Deschler and David Ndungu as CB team leads — confirm availability"
+  ],
+  "cb_coverage_pct": 43
+}
